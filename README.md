@@ -112,5 +112,3 @@
 
 - [Hướng dẫn đóng image CentOS 7 với Cloud-init (không dùng LVM)](./docs/06.Advanced/CentOS-7-cloudinit-noLVM.md)
 - [Hướng dẫn đóng image Ubuntu 14.04 với cloud-init (không dùng LVM)](./docs/06.Advanced/Ubuntu14-04-cloudinit-noLVM.md)
-
-(C) MediTech JSC,. - https://meditech.vn
